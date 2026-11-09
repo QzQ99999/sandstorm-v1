@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "sourceFile": "Sandstorm V1.html",
+  "sourceBytes": 165633653,
+  "sourceSha256": "5a656c3a80d3c34bddcd880588a55b7f4660da5321c7c20cb1bc6ae4a0b3e7be",
+  "encoding": "UTF-8",
+  "maxWrappedPartBytes": 33554432,
+  "rawOpening": "{% raw %}",
+  "rawClosing": "{% endraw %}",
+  "indexSha256": "c20552b5e9bc145db73e5503a674325b6d628cc6bcba318360401ebe317e3efb",
+  "parts": [
+    {
+      "file": "sandstorm-v1-001.html",
+      "offset": 0,
+      "payloadBytes": 33554411,
+      "payloadSha256": "08083834de1b7cd51e36e465cbde2445cfe14c28c7ec480872a4fe539e684445",
+      "wrappedBytes": 33554432,
+      "wrappedSha256": "22de6ce7a282bf552608b3481126658b69c4238eb15347a87d53002eb2ed2d06"
+    },
+    {
+      "file": "sandstorm-v1-002.html",
+      "offset": 33554411,
+      "payloadBytes": 33554411,
+      "payloadSha256": "7943b39a74107413875f451082e146d1e1f5a54c457d4aa41a1c7676303ca41e",
+      "wrappedBytes": 33554432,
+      "wrappedSha256": "817789eabf83c549b375a95c04b781e583c040b1247262785f9fb1c41fa0c93f"
+    },
+    {
+      "file": "sandstorm-v1-003.html",
+      "offset": 67108822,
+      "payloadBytes": 33554411,
+      "payloadSha256": "60e064bca881ee5a7491be9e1b905c12e4c4a104d2f19be02ea71ca1865bd355",
+      "wrappedBytes": 33554432,
+      "wrappedSha256": "705bbcf0fc7378034aadcb6aabe729d981b3fcf4cee711068dc3818d8d1fea87"
+    },
+    {
+      "file": "sandstorm-v1-004.html",
+      "offset": 100663233,
+      "payloadBytes": 33554411,
+      "payloadSha256": "f03603589edd12557a92f94dbd7c7f03f608929c7a8fc0a57b03cfa21224b73c",
+      "wrappedBytes": 33554432,
+      "wrappedSha256": "3d9849986d33df1bddac6efc0ee3a9b05de8c0a5162eaa456272120b4e89fd76"
+    },
+    {
+      "file": "sandstorm-v1-005.html",
+      "offset": 134217644,
+      "payloadBytes": 31416009,
+      "payloadSha256": "0635eea1b1d113ff98ee93dac9c57aecfa8a04c11aa7bcfbf3fa093dd0fed489",
+      "wrappedBytes": 31416030,
+      "wrappedSha256": "132d51fd023aeb625222b6cd8a6c82dd0a679227121b564e2fc43925bbe5a0f0"
+    }
+  ],
+  "copiedFiles": {
+    "initial-workbench.json": {
+      "bytes": 7815,
+      "sha256": "5b672a8b3fa649753fbf5c701bd856f9e65d8d302a98aa399c622732084cf507"
+    },
+    "freeze-manifest.json": {
+      "bytes": 16604,
+      "sha256": "8d21e5c02db887d380cb27044d4f7cb2f907a6fe16f2a58f3a674c33043fb2da"
+    },
+    "Launch Sandstorm V1.cmd": {
+      "bytes": 1963,
+      "sha256": "1008cf92496517b8098a643715bb7d00c24c7cfb30cd5db01d4ecdf658d2b17b"
+    },
+    "THREE-LICENSE.txt": {
+      "bytes": 1081,
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+    }
+  }
+}

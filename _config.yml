@@ -1,0 +1,12 @@
+encoding: utf-8
+theme: null
+exclude:
+  - README.md
+  - AGENTS.md
+  - parts-manifest.json
+  - freeze-manifest.json
+  - verify-parts.py
+  - initial-workbench.json
+  - Launch Sandstorm V1.cmd
+  - Sandstorm V1.html
+  - releases

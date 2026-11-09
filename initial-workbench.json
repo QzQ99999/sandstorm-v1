@@ -1,0 +1,391 @@
+{
+  "schema": "afterimage.workbench",
+  "version": 5,
+  "capturedAt": "2026-11-01T03:30:37.336Z",
+  "instruction": "读取工作台并修改",
+  "source": {
+    "file": "Shop In Sandstorm V1.html",
+    "url": "file:///C:/Users/31202/Desktop/Afterimage/Shop%20In%20Sandstorm/Shop%20In%20Sandstorm%20V1.html"
+  },
+  "normal": {
+    "controls": {
+      "sun-x": 4.9,
+      "sun-y": 8.1,
+      "sun-z": -52.7,
+      "sun-disc-size": 42,
+      "fog": 60.2,
+      "fog-hue": 27.8,
+      "fog-saturation": 200,
+      "fog-brightness": 58.5,
+      "shaft-size": 100,
+      "shaft-density": 100,
+      "shaft-opacity": 0,
+      "shaft-position": 0,
+      "light-hue": 23.4,
+      "light-brightness": 42.3,
+      "light-saturation": 200,
+      "environment-hue": -5.9,
+      "environment-brightness": 35,
+      "environment-saturation": 200,
+      "environment-boundary": 55,
+      "sand-push": 200,
+      "sand-cover": 356,
+      "sand-brightness": 128,
+      "sand-hue": 23,
+      "sand-saturation": 170,
+      "storm-wind-speed": 26.5,
+      "storm-wind-x": -40,
+      "storm-wind-y": 0,
+      "storm-wind-z": 82,
+      "storm-turbulence": 65,
+      "storm-gust-strength": 100,
+      "storm-dust-density": 43,
+      "storm-dust-height": 0.66,
+      "storm-flow-speed": 200,
+      "storm-noise-scale": 66,
+      "storm-softness": 0.35,
+      "storm-ground-hue": 24,
+      "storm-ground-saturation": 200,
+      "storm-ground-brightness": 154,
+      "storm-particle-count": 106496,
+      "storm-particle-size": 1.2,
+      "storm-particle-opacity": 19,
+      "storm-streak": 4,
+      "storm-particle-hue": 35,
+      "storm-particle-saturation": 200,
+      "storm-particle-brightness": 100,
+      "storm-drag": 2.4,
+      "storm-radius": 24,
+      "storm-air-density": 14,
+      "storm-volume-scale": 60,
+      "storm-volume-variation": 85,
+      "storm-volume-speed": 65,
+      "storm-volume-hue": 21,
+      "storm-volume-saturation": 200,
+      "storm-volume-grain": 100,
+      "storm-volume-brightness": 190,
+      "storm-ripple-strength": 78,
+      "storm-ripple-scale": 189,
+      "storm-irregularity": 100,
+      "storm-roughness": 160
+    },
+    "sunDiscVisible": false,
+    "storm": {
+      "enabled": true,
+      "paused": false,
+      "lift": 1.8,
+      "gravity": 2.2
+    },
+    "camera": {
+      "orbit": {
+        "yaw": 87.69199572753637,
+        "pitch": 0.07833343505859375,
+        "radius": 9.5
+      },
+      "target": {
+        "yaw": 87.69199572753637,
+        "pitch": 0.07833343505859375,
+        "radius": 9.5
+      }
+    },
+    "panels": {
+      "sun-group": false,
+      "fog-group": false,
+      "tyndall-group": false,
+      "light-group": false,
+      "environment-group": false,
+      "sand-group": false,
+      "storm-wind-group": false,
+      "storm-flow-group": false,
+      "storm-particles-group": false,
+      "storm-volume-group": false,
+      "storm-surface-group": false
+    }
+  },
+  "objects": [
+    {
+      "id": "cube",
+      "name": "金属方块",
+      "position": [
+        0,
+        0.91,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "name": "沙土地形",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sun",
+      "name": "太阳 / 光源",
+      "position": [
+        4.9,
+        8.1,
+        -52.7
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "clouds",
+      "name": "云层 / 光束",
+      "position": [
+        0,
+        14,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "editor": {
+    "active": false,
+    "selectedId": "terrain",
+    "mode": "translate",
+    "camera": {
+      "yaw": 31.48472585561794,
+      "pitch": 0.3666662597656255,
+      "radius": 21.865425604686116,
+      "focus": [
+        3.672869727764862,
+        2.926918112499835,
+        9.063932410795513
+      ]
+    },
+    "panelOpen": true,
+    "shortcutsOpen": false,
+    "undo": [
+      {
+        "before": [
+          {
+            "id": "cube",
+            "position": [
+              0,
+              0.91,
+              0
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": [
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "id": "terrain",
+            "position": [
+              0,
+              0,
+              0
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": [
+              1,
+              1,
+              1
+            ]
+          }
+        ],
+        "after": [
+          {
+            "id": "cube",
+            "position": [
+              0,
+              0.91,
+              0
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": [
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "id": "terrain",
+            "position": [
+              6.17121336144973,
+              0,
+              0
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": [
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "id": "cube",
+            "position": [
+              0,
+              0.91,
+              0
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": [
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "id": "terrain",
+            "position": [
+              6.17121336144973,
+              0,
+              0
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": [
+              1,
+              1,
+              1
+            ]
+          }
+        ],
+        "after": [
+          {
+            "id": "cube",
+            "position": [
+              0,
+              0.91,
+              0
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": [
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "id": "terrain",
+            "position": [
+              0,
+              0,
+              0
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": [
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "redo": []
+  },
+  "character": {
+    "position": {
+      "x": 1.0565335258477258,
+      "y": 0.4451193033067668,
+      "z": 40.90973159817204
+    },
+    "motion": {
+      "yaw": -3.026190738286445,
+      "desiredYaw": -3.026190738286445,
+      "state": "idle",
+      "speed": 0,
+      "phase": 4183.346228952783
+    }
+  },
+  "sand": {
+    "encoding": "sparse-u16-f32-le/base64",
+    "texelSize": 0.025,
+    "tileSize": 128,
+    "stats": {
+      "segments": 47970,
+      "distance": 1086.755904484896,
+      "revision": 47970,
+      "displaced": 73.87115870175958,
+      "covered": 29.636411335537773,
+      "activePixels": 0
+    },
+    "relaxation": {
+      "clock": 445.56666666680553,
+      "accumulator": 0
+    },
+    "tiles": []
+  }
+}
